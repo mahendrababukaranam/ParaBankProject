@@ -1,0 +1,21 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "smoke": "npx playwright test --grep @smoke --project=ParaBank",
+    "regression": "npx playwright test --grep-invert \"@smoke\" --project=ParaBank"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.5.0",
+    "allure-playwright": "^3.6.0"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}

@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","6104","@smoke@regressionLogin Page","chrome","2026-04-02","passed","2026-04-02","Parallel Testing","RegisterTestCase.spec.js","",""
+"","8021","@smokeRegister User","chrome","2026-04-02","passed","2026-04-02","Parallel Testing","RegisterTestCase.spec.js","",""
+"","6931","Login Test TC03","chrome","2026-04-02","passed","2026-04-02","","ExcelDataDrivenTestCase.spec.js","",""
+"","4570","Login Test TC05","chrome","2026-04-02","passed","2026-04-02","","ExcelDataDrivenTestCase.spec.js","",""
+"","6761","Login Test TC02","chrome","2026-04-02","passed","2026-04-02","","ExcelDataDrivenTestCase.spec.js","",""
+"","6897","Login Test TC04","chrome","2026-04-02","passed","2026-04-02","","ExcelDataDrivenTestCase.spec.js","",""
+"","7188","Login Test TC01","chrome","2026-04-02","passed","2026-04-02","","ExcelDataDrivenTestCase.spec.js","",""
