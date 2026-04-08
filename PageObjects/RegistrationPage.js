@@ -62,4 +62,10 @@ export class RegistrationPage
         }
     }
 
+    async validateRegisterButton() {
+        await expect(this.registerButton).toBeVisible();
+        await expect(this.registerButton).toBeEnabled();
+    }
+
+
 }
